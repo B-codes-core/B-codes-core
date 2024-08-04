@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B-codes-core
-- 👀 I’m interested in everything that involves coding.
-- 🌱 I’m currently learning everything I can
+- 👀 I’m interested in all things Cybersecurity
+- 🌱 I’m currently learning Cryptography
 - 💞️ I’m looking to collaborate on anything related to cyber security and Linux
 - 📫 How to reach me Linked In : www.linkedin.com/in/bcodes-core-535192295
 
